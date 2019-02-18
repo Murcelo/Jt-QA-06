@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="67e30d9e-daae-471c-9e7a-e4f43aa00835" name="profishell@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
