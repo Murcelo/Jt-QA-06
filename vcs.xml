@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/Oleg-Afanasiev/qa-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Oleg-Afanasiev/mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\jt" />
